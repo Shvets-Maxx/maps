@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shvets-Maxx/maps/static/css/main.7d72cf6d.css",
+    "main.js": "/Shvets-Maxx/maps/static/js/main.17c8001c.js",
+    "index.html": "/Shvets-Maxx/maps/index.html",
+    "main.7d72cf6d.css.map": "/Shvets-Maxx/maps/static/css/main.7d72cf6d.css.map",
+    "main.17c8001c.js.map": "/Shvets-Maxx/maps/static/js/main.17c8001c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d72cf6d.css",
+    "static/js/main.17c8001c.js"
+  ]
+}
